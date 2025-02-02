@@ -43,7 +43,7 @@
 ---
 
 ## 🏆 **Highlights**
-🚀 **Backend Engineer con +X años de experiencia en Cloud & Microservices.**  
+🚀 **Backend Engineer con +3 años de experiencia en Cloud & Microservices.**  
 ☁️ **Especialista en Azure y Kubernetes para despliegues escalables.**  
 🔍 **Enfoque en Clean Code, SOLID, y buenas prácticas de arquitectura.**  
 💡 **Siempre explorando nuevas tecnologías y optimizando sistemas.**  
