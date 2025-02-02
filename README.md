@@ -56,7 +56,7 @@
 
 ## 🌍 **Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmunizhu)  
-📩 **Email:** [tuemail@example.com](mailto:tuemail@example.com)  
+📩 **Email:** [dmunizhu@gmail.com](mailto:dmunizhu@gmail.com)  
 🐙 **GitHub:** [github.com/dmunizhu](https://github.com/dmunizhu)  
 
 📢 **Si tienes un proyecto desafiante o una idea innovadora, hablemos. ¡Siempre abierto a nuevas oportunidades!** 🚀  
