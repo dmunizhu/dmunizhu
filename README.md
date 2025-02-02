@@ -6,8 +6,6 @@
 
 ---
 
-📢 **Si tienes un proyecto desafiante o una idea innovadora, hablemos. ¡Siempre abierto a nuevas oportunidades!** 🚀  
-
 
 ## 🎯 **About Me**
 👋 ¡Hola! Soy **Dante Muñiz Huamán**, un **Backend Engineer apasionado** con experiencia en **Cloud Computing** y **arquitectura de microservicios**. Me encanta diseñar y optimizar sistemas escalables, resilientes y de alto rendimiento. 🏗️⚡  
@@ -56,8 +54,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmunizhu)  
 📩 **Email:** [dmunizhu@gmail.com](mailto:dmunizhu@gmail.com)  
 🐙 **GitHub:** [github.com/dmunizhu](https://github.com/dmunizhu)  
-
-📢 **Si tienes un proyecto desafiante o una idea innovadora, hablemos. ¡Siempre abierto a nuevas oportunidades!** 🚀  
 
 ---
 
