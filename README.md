@@ -51,7 +51,7 @@
 ---
 
 ## 🌍 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/dmunizhu](https://www.linkedin.com/in/dante-mu%C3%B1iz-b8a530158/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/dante-mu%C3%B1iz-b8a530158/))  
 📩 **Email:** [dmunizhu@gmail.com](mailto:dmunizhu@gmail.com)  
 🐙 **GitHub:** [github.com/dmunizhu](https://github.com/dmunizhu)  
 
